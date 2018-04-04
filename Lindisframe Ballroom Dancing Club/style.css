@@ -1,0 +1,436 @@
+div.topselections{
+	float:left;
+	font-size:20px;
+	margin-top:40px;
+	margin-left:38px;	
+	color:white;
+}
+a.a1{
+	text-decoration:none;
+	color:white;
+}
+a.a1:hover{
+	text-decoration:underline;
+	color:brown;
+}
+a.a2{
+	text-decoration:none;
+	color:white;
+}
+a.a2:hover{
+	text-decoration:underline;
+	color:cyan;
+}
+a.a3{
+	text-decoration:none;
+	color:brown;
+}
+a.a3:hover{
+	text-decoration:underline;
+	color:black;
+}
+div#topofpage{
+	background-image: url("images/cover.jpg");
+	width: 990px;
+	height:570px;
+	background-repeat: no-repeat;
+}
+div.nameoforg{
+	float:left;
+	margin-top:250px;
+	font-size:55px;
+	margin-left:120px;
+	color:white;
+}
+div.locoforg{
+	float:left;
+	margin-top:20px;
+	margin-left:350px;
+	font-size:28px;
+	color:white;
+}
+div.belowcover{
+	margin-top:70px;
+}
+div.belowcoverimage{
+	margin-left:20px;
+	float:left;
+}
+div.belowcoverdesc{
+	margin-left:370px;
+	width:610px;
+	background-image: url("images/belowcoverback.jpg");
+	height:350px;
+	color:white;
+}
+p.p1{
+	margin-left:10px;
+	font-size:25px;
+}
+span.s1{
+	font-size:40px;
+}
+p.p2{
+	margin-left:12px;
+	font-size:18px;
+}
+div.d1{
+	margin-left:10px;
+	font-size:21px;
+}
+button.b1{
+	background-color:transparent;
+	font-size:20px;
+	color:white;
+	margin-left:30px;
+	margin-top:20px;
+	border-radius:10px;
+}
+span.s2{
+	margin-left:250px;
+	text-decoration:underline white;
+	font-size:18px;
+}
+div.newsinhome{
+	margin-top:80px;
+}
+div.newsinhometitle{
+	font-size:60px;
+	text-align:center;
+	color:brown;
+}
+div.newsinh{
+	margin-left:20px;
+	margin-top:10px;
+	width:460px;
+	float:left;
+}
+p.p3{
+	color:brown;
+	font-size:25px;
+	font-weight:bold;
+}
+p.p4{
+	margin-top:35px;
+	font-size:20px;
+}
+p.p5{
+	font-size:18px;
+	color:brown;
+	text-decoration:underline;
+}
+div.newsinh2{
+	margin-left:20px;
+	margin-top:10px;
+	width:470px;
+	float:left;
+}
+button.b2{
+	background-color:transparent;
+	font-size:20px;
+	color:brown;
+	margin-left:30px;
+	margin-top:20px;
+	border-radius:10px;
+
+}
+div.allnewsandevents{
+	margin-top:500px;
+	margin-right:200px;
+	text-align:center;
+}
+div.openicon{
+	float:left;
+}
+div.ribbon{
+	margin-top:120px;
+	background-image: url("images/belowcover2.jpg");
+	height:200px;
+	margin-left:70px;
+	background-repeat:no-repeat;
+}
+p.p6{
+	color:.A0522D;
+	font-size:25px;
+	font-weight:bold;
+}
+p.p7{
+	color:white;
+	font-size:17px;
+}
+div.ribbondesc{
+	margin-top:18px;
+	float:left;
+}
+div.addressicon{
+	float:left;
+	margin-left:30px;
+	margin-top:20px;
+}
+div.homecontact{
+	background-image: url("images/black_background.png");
+	height:100px;
+	width:800px;
+	background-repeat:no-repeat;
+	margin-left:130px;
+	margin-top:10px;
+}
+div.terms{
+	color:white;
+	font-size:20px;
+	float:left;
+	margin-left:38px;
+	margin-top:40px;
+}
+div.final{
+	background-image: url("images/black_background.jpg");
+	margin-top:5px;
+	height:40px;
+	color:.4C4646;
+	padding-top:5px;
+	
+	width:900px;
+}
+span.top{
+	text-decoration:underline;
+}
+a.a4{
+	text-decoration:none;
+	color:white;
+}
+a.a4:hover{
+	color:brown;
+}
+a.a5{
+	color:brown;
+}
+div.topselections{
+	float:left;
+	font-size:20px;
+	margin-top:40px;
+	margin-left:38px;	
+	color:brown;
+}
+a.a1{
+	text-decoration:none;
+	color:brown;
+}
+a.a1:hover{
+	text-decoration:underline;
+	color:brown;
+}
+div#topofpagea{
+	background-image: url("images/aboutuscover.jpg");
+	width: 990px;
+	height:570px;
+	background-repeat: no-repeat;
+}
+div.nameoforg2{
+	float:left;
+	margin-top:250px;
+	font-size:55px;
+	margin-left:230px;
+	color:brown;
+}
+div.locoforg2{
+	float:left;
+	margin-top:20px;
+	margin-left:350px;
+	font-size:28px;
+	color:brown;
+}
+p.about1{
+	font-size:50px;
+	text-align:center;
+	color:green;
+}
+p.about2{
+	margin-left:70px;
+	margin-right:70px;
+	color:white;
+}
+img.about3{
+	margin-left:100px;
+}
+div.whyus{
+	background-image:url("images/dark.png");
+}
+div.ourhistory{
+	background-image:url("images/dark.png");
+}
+div.topselections{
+	float:left;
+	font-size:20px;
+	margin-top:40px;
+	margin-left:38px;	
+	color:black;
+}
+a.aaa1{
+	text-decoration:none;
+	color:white;
+}
+a.aaa1:hover{
+	text-decoration:underline;
+	color:white;
+}
+div#topofpageb{
+	background-image: url("images/classes.jpg");
+	width: 990px;
+	height:570px;
+	background-repeat: no-repeat;
+}
+div.anameoforg2{
+	float:left;
+	margin-top:250px;
+	font-size:55px;
+	margin-left:230px;
+	color:white;
+}
+div.alocoforg2{
+	float:left;
+	margin-top:20px;
+	margin-left:350px;
+	font-size:28px;
+	color:white;
+}
+p.class1{
+	font-size:40px;
+	color:brown;
+	text-align:center;
+}
+p.classes1{
+	text-align:center;
+	font-size:25px;
+}
+p.classes2{
+	text-align:center;
+	text-decoration:underline;
+	font-size:20px;
+}
+p.classes3{
+	text-align:center;
+	font-size:17px;
+}
+
+div.schedule{
+	text-align:center;
+	font-size:30px;
+}
+table.tableid{
+	background-image:url("images/dark.png");
+	margin-left:70px;
+	color:white;
+}
+div.topselections{
+	float:left;
+	font-size:20px;
+	margin-top:40px;
+	margin-left:38px;	
+	color:black;
+}
+a.a1{
+	text-decoration:none;
+	color:brown;
+}
+a.a1:hover{
+	text-decoration:underline;
+	color:blue;
+}
+div#topofpagec{
+	background-image: url("images/cover.jpg");
+	width: 990px;
+	height:570px;
+	background-repeat: no-repeat;
+}
+div.nameoforg2{
+	float:left;
+	margin-top:250px;
+	font-size:55px;
+	margin-left:230px;
+	color:brown;
+}
+div.locoforg2{
+	float:left;
+	margin-top:20px;
+	margin-left:350px;
+	font-size:28px;
+	color:brown;
+}
+p.events2{
+	text-align:center;
+	font-size:40px;
+	color:red;
+	text-decoration:underline;
+}
+p.events3{
+	color:white;
+	font-size:20px;
+}
+body.body1{
+	background-image:url("images/dark.png");
+}
+video{
+	margin-left:27px;
+}
+div.topselections{
+	float:left;
+	font-size:20px;
+	margin-top:40px;
+	margin-left:38px;	
+	color:black;
+}
+a.aaa1{
+	text-decoration:none;
+	color:white;
+}
+a.aaa1:hover{
+	text-decoration:underline;
+	color:white;
+}
+div#topofpaged{
+	background-image: url("images/dark.png");
+	width: 990px;
+	height:570px;
+	background-repeat: repeat;
+}
+div.anameoforg2{
+	float:left;
+	margin-top:250px;
+	font-size:55px;
+	margin-left:190px;
+	color:white;
+}
+div.alocoforg2{
+	float:left;
+	margin-top:20px;
+	margin-left:350px;
+	font-size:28px;
+	color:white;
+}
+p.join3{
+	color:green;
+	margin:30px;
+	font-size:20px;
+}
+
+div.join7{
+	background-image: url("images/dark.png");
+	color:white;
+}
+p.red{
+	text-align:center;
+	font-size:25px;
+	color:white;
+}
+form.form1{
+	color:white;
+}
+div.join6{
+	margin-left:30px;
+	margin-top:10px;
+
+}
+
+
+
+table, td, th { border: 1px solid gray }

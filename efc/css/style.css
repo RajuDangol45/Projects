@@ -1,0 +1,80 @@
+body{
+	margin: 0px auto;
+	color:#1D2129;
+	font-size: 14px;
+}
+
+h1{
+	margin: 0px auto;
+	color: #365899;
+	background-color: #E9EBEE;
+	padding: 20px;
+}
+
+.btn:hover{
+	border: 1px solid #1D75BE;
+}
+
+input{
+	color:#ffffff;
+	padding:10px 10px;
+	text-align: left;
+	font-weight: 700;
+	margin: 10px 10px;
+	background-color: #4080FF;
+}
+a,h2{
+	text-decoration: none;
+}
+.left_box{
+	float: left;
+	width: 20%;
+	padding-left: 20px;
+}
+.right_box{
+	float: right;
+	width: 75%;
+	padding-left: 20px;
+	border-left: 2px solid #272822;
+}
+h2{
+	color: #911729;
+}
+.details{
+	padding-left: 10px;
+	padding-right: 30px;
+}
+.visitor{
+	float: right;
+}
+.msg{
+	color: #ff0000;
+}
+.longText{
+	width: 950px;
+}
+#setupPage{
+	float: right;
+	padding-right: 20px;
+}
+.rss{
+	float:right;
+	padding-right: 30px;
+}
+.question{
+	font-size: 25px;
+	border-bottom: 2px solid #000000;
+	padding-bottom: 5px;
+	padding-left: 10px;
+}
+.answer{
+	font-size: 14px;
+	padding-top: 5px;
+	padding-left: 15px;
+}
+.askQuestion{
+	margin-top: 40px;
+}
+.delete{
+	float: right;
+}
